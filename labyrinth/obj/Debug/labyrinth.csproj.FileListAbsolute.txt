@@ -1,0 +1,6 @@
+c:\users\dkxepkr\documents\visual studio 2015\Projects\labyrinth\labyrinth\bin\Debug\labyrinth.exe.config
+C:\Users\dkxepkr\documents\visual studio 2015\Projects\labyrinth\labyrinth\obj\Debug\labyrinth.csprojResolveAssemblyReference.cache
+C:\Users\dkxepkr\documents\visual studio 2015\Projects\labyrinth\labyrinth\bin\Debug\labyrinth.exe
+C:\Users\dkxepkr\documents\visual studio 2015\Projects\labyrinth\labyrinth\bin\Debug\labyrinth.pdb
+C:\Users\dkxepkr\documents\visual studio 2015\Projects\labyrinth\labyrinth\obj\Debug\labyrinth.exe
+C:\Users\dkxepkr\documents\visual studio 2015\Projects\labyrinth\labyrinth\obj\Debug\labyrinth.pdb
